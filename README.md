@@ -45,14 +45,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧮 Calculation Automation Bot</h3>
+      <h3 align="center">🧮 Wastewater Treatment Assistant Bot</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
-      <p>A specialized bot designed to automate mathematical and financial calculations. Eliminates manual routine tasks, improves data accuracy, and saves time.</p>
+      <p>A specialized bot designed to automate complex engineering calculations for wastewater treatment. Eliminates manual routine tasks, improves data accuracy, and saves calculation time.</p>
       <p align="center">
-        <a href="https://github.com/Zenl1x/YOUR_BOT_REPO](https://github.com/Zenl1x/Wastewater-Treatment-Assistant-Bot"><b>📄 View Code</b></a>
+        <a href="https://github.com/Zenl1x/Wastewater-Treatment-Assistant-Bot"><b>📄 View Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
