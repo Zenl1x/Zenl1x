@@ -72,7 +72,3 @@
 
 ---
 
-<!-- Счетчик просмотров профиля -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zenl1x&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
