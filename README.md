@@ -52,7 +52,7 @@
       </p>
       <p>A specialized bot designed to automate mathematical and financial calculations. Eliminates manual routine tasks, improves data accuracy, and saves time.</p>
       <p align="center">
-        <a href="https://github.com/Zenl1x/YOUR_BOT_REPO"><b>📄 View Code</b></a>
+        <a href="[https://github.com/Zenl1x/YOUR_BOT_REPO](https://github.com/Zenl1x/Wastewater-Treatment-Assistant-Bot)"><b>📄 View Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
