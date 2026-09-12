@@ -40,58 +40,36 @@
 
 ---
 
-### 📊 GitHub Stats
-
 ### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Task Automation Bot</h3>
+      <h3 align="center">🧮 Calculation Automation Bot</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
-      <p>Скрипт для автоматизации рутинных онлайн-задач. Экономит время, заменяя повторяющиеся действия автоматическими сценариями.</p>
+      <p>Бот для автоматизации математических и финансовых расчетов. Исключает рутинные вычисления, повышает точность данных и экономит время пользователей.</p>
       <p align="center">
-        <a href="https://github.com/Zenl1x/PROJECT_NAME"><b>📄 View Code</b></a>
+        <a href="https://github.com/Zenl1x/YOUR_BOT_REPO"><b>📄 View Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Scalable Web App</h3>
+      <h3 align="center">🎯 Career Guidance Testing Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p>Веб-приложение с упором на производительность, чистый интерфейс и масштабируемую архитектуру backend-части.</p>
+      <p>Интерактивная веб-платформа с тестами по профориентации. Помогает пользователям определить сильные стороны и подобрать подходящую карьерную траекторию.</p>
       <p align="center">
-        <a href="https://github.com/Zenl1x/PROJECT_NAME"><b>📄 View Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Data & NLP Analyzer</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>      <p>Инструмент для анализа и обработки текстовых данных на основе лингвистических правил и моделей машинного обучения.</p>
-      <p align="center">
-        <a href="https://github.com/Zenl1x/PROJECT_NAME"><b>📄 View Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠 C++ Utility Tool</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      </p>
-      <p>Высокопроизводительная консольная утилита для оптимизации работы с локальными файлами и структурами данных.</p>
-      <p align="center">
-        <a href="https://github.com/Zenl1x/PROJECT_NAME"><b>📄 View Code</b></a>
+        <a href="https://github.com/Zenl1x/YOUR_WEBSITE_REPO"><b>📄 View Code</b></a>
       </p>
     </td>
   </tr>
 </table>
+
 ---
 
 <!-- Счетчик просмотров профиля -->
