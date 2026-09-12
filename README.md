@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
-      <p>Бот для автоматизации математических и финансовых расчетов. Исключает рутинные вычисления, повышает точность данных и экономит время пользователей.</p>
+      <p>A specialized bot designed to automate mathematical and financial calculations. Eliminates manual routine tasks, improves data accuracy, and saves time.</p>
       <p align="center">
         <a href="https://github.com/Zenl1x/YOUR_BOT_REPO"><b>📄 View Code</b></a>
       </p>
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p>Интерактивная веб-платформа с тестами по профориентации. Помогает пользователям определить сильные стороны и подобрать подходящую карьерную траекторию.</p>
+      <p>An interactive web platform featuring career guidance tests to help users identify their key strengths and find their ideal career path.</p>
       <p align="center">
         <a href="https://github.com/Zenl1x/YOUR_WEBSITE_REPO"><b>📄 View Code</b></a>
       </p>
