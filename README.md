@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** CS Student (focused on Software Engineering & Data Systems)
-- 🚀 **Currently working on:** Personal projects & building scalable web applications
+- 🎓 **Education:** Hoping to become CS Student in future (focused on Software Engineering & AI)
+- 🚀 **Currently working on:** Personal projects
 - 🌱 **Learning:** Deepening knowledge in Algorithms, System Design & Cloud Architecture
 - 💬 **Ask me about:** Java, Python, Web Development, and Automation
 - ⚡ **Fun fact:** I love automating routine tasks to save time for impactful things
