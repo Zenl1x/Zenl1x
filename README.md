@@ -46,7 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Zenl1x&show_icons=true&theme=radial&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenl1x&layout=compact&theme=radial&hide_border=true" width="48%" />
 </p>
-
 ---
 
 <!-- Счетчик просмотров профиля -->
